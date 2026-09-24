@@ -1,4 +1,4 @@
-This is a test for BSIT-2
+Modified by Sir Jerry - BSIT-2
 Professor: Jeremias Esperanza
 SM 1:
 SM 2:
