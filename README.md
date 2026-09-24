@@ -5,5 +5,5 @@
 ## Write your fullname guibang2 : Guibang-Guibang, Chelcee
 
 
-## Write your full name chronos :
-#BAROZO_Marl Gem J.
+## Write your full name chronos : BAROZO_Marl Gem J.
+
